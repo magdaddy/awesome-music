@@ -119,7 +119,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 * [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
 * [Orca](https://github.com/hundredrabbits/Orca) - live programming environment for music.
-* [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
+* [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music. <a class="github-button" href="https://github.com/overtone/overtone" data-icon="octicon-star" data-show-count="true">Star</a>
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 * [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
@@ -158,3 +158,6 @@ Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work.
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
