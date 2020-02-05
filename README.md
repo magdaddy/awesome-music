@@ -103,27 +103,27 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Music Programming
 
-* [Alda](https://github.com/alda-lang/alda) - a music programming language for musicians.
+* [Alda](https://github.com/alda-lang/alda) - a music programming language for musicians. ![Github Stars](https://img.shields.io/github/stars/alda-lang/alda?style=social)
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
-* [Chuck](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
-* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
+* [Chuck](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language. ![Github Stars](https://img.shields.io/github/stars/ccrma/chuck?style=social)
+* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider." ![Github Stars](https://img.shields.io/github/stars/mohayonao/CoffeeCollider?style=social)
 * [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 * [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
 * [Faust](http://faust.grame.fr/) - a functional programming language specifically designed for real-time signal processing and synthesis.
-* [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
+* [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art. ![Github Stars](https://img.shields.io/github/stars/?style=social)
 * [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
-* [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone.
-* [Midica](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+* [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone. ![Github Stars](https://img.shields.io/github/stars/ctford/leipzig?style=social)
+* [Midica](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke. ![Github Stars](https://img.shields.io/github/stars/truj/midica?style=social)
 * [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 * [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
-* [Orca](https://github.com/hundredrabbits/Orca) - live programming environment for music.
+* [Orca](https://github.com/hundredrabbits/Orca) - live programming environment for music. ![Github Stars](https://img.shields.io/github/stars/hundredrabbits/Orca?style=social)
 * [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music. ![Github Stars](https://img.shields.io/github/stars/overtone/overtone?style=social)
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 * [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
-* [Sporth](https://github.com/PaulBatchelor/Sporth) - a small stack based audio language.
+* [Sporth](https://github.com/PaulBatchelor/Sporth) - a small stack based audio language. ![Github Stars](https://img.shields.io/github/stars/PaulBatchelor/Sporth?style=social)
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
 * [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
 
