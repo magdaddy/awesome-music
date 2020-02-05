@@ -110,7 +110,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 * [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
 * [Faust](http://faust.grame.fr/) - a functional programming language specifically designed for real-time signal processing and synthesis.
-* [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art. ![Github Stars](https://img.shields.io/github/stars/?style=social)
+* [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art. ![Github Stars](https://img.shields.io/github/stars/iannix/IanniX?style=social)
 * [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
 * [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone. ![Github Stars](https://img.shields.io/github/stars/ctford/leipzig?style=social)
 * [Midica](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke. ![Github Stars](https://img.shields.io/github/stars/truj/midica?style=social)
@@ -121,11 +121,11 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Orca](https://github.com/hundredrabbits/Orca) - live programming environment for music. ![Github Stars](https://img.shields.io/github/stars/hundredrabbits/Orca?style=social)
 * [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music. ![Github Stars](https://img.shields.io/github/stars/overtone/overtone?style=social)
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
-* [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
-* [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
+* [Pure Data](https://github.com/pure-data/pure-data) - a visual programming language for audio and other multimedia. ![Github Stars](https://img.shields.io/github/stars/pure-data/pure-data?style=social)
+* [Sonic Pi](https://github.com/samaaron/sonic-pi) - a live coding synth with an emphasis on educational use. ![Github Stars](https://img.shields.io/github/stars/samaaron/sonic-pi?style=social)
 * [Sporth](https://github.com/PaulBatchelor/Sporth) - a small stack based audio language. ![Github Stars](https://img.shields.io/github/stars/PaulBatchelor/Sporth?style=social)
-* [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
-* [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
+* [SuperCollider](https://github.com/supercollider/supercollider) - a programming language for real time audio synthesis and algorithmic composition. ![Github Stars](https://img.shields.io/github/stars/supercollider/supercollider?style=social)
+* [Tidal](https://github.com/tidalcycles/Tidal) - a language built on Haskell for live coding patterns. ![Github Stars](https://img.shields.io/github/stars/tidalcycles/Tidal?style=social)
 
 ## Music Theory Teaching
 
